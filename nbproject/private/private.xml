@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/Chess/src/com/chess/gui/Table.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/Chess/src/com/chess/engine/pieces/PromotionChoice.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/Chess/src/com/chess/engine/pieces/Pawn.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/Chess/src/com/chess/engine/player/Player.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/Chess/src/com/chess/engine/board/Tile.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/Chess/src/com/chess/engine/pieces/King.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/Chess/src/com/chess/engine/board/Move.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/Chess/src/com/chess/engine/board/Board.java</file>
+        </group>
+    </open-files>
+</project-private>
